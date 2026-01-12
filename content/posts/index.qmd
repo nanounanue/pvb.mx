@@ -1,0 +1,11 @@
+---
+title: "Posts"
+listing:
+  contents: "."
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, description, categories]
+---
+
+Short updates, observations, and commentary on legal technology and operations.

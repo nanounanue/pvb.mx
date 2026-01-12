@@ -1,0 +1,10 @@
+---
+title: "Resources"
+listing:
+  contents: "."
+  type: default
+  sort: "title"
+  fields: [title, description]
+---
+
+Curated resources, guides, and references for legal technology and operations professionals.

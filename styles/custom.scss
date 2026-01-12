@@ -1,0 +1,120 @@
+/*-- scss:defaults --*/
+
+// Colors - Classic professional legal theme
+$body-bg: #fafafa;
+$body-color: #2c3e50;
+$headings-color: #1a252f;
+$link-color: #2980b9;
+$link-hover-color: #1a5276;
+
+// Typography - Clean sans-serif for professionalism
+$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$headings-font-family: 'Inter', -apple-system, sans-serif;
+
+// Spacing
+$spacer: 1.5rem;
+
+/*-- scss:rules --*/
+
+// Main content container
+.quarto-body-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+// Navbar - professional underline
+.navbar {
+  border-bottom: 3px solid $headings-color;
+  background-color: #fff !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// Heading styles
+h1, h2, h3, h4, h5, h6 {
+  color: $headings-color;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: 2.25rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 1.25rem;
+  padding-top: 1rem;
+}
+
+// Paragraphs
+p {
+  margin-bottom: 1.25em;
+}
+
+// Links - subtle professional style
+a {
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+// Blockquotes - legal document style
+blockquote {
+  border-left: 4px solid $link-color;
+  padding-left: 1.5em;
+  margin-left: 0;
+  background-color: #f8f9fa;
+  padding: 1em 1.5em;
+  font-style: normal;
+}
+
+// Code blocks
+pre {
+  background-color: #f1f3f5;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+}
+
+// Cards for listings
+.quarto-listing-default {
+  .listing-item {
+    border-bottom: 1px solid #e9ecef;
+    padding: 1.5rem 0;
+  }
+}
+
+// Footer - professional
+.page-footer {
+  border-top: 2px solid #e9ecef;
+  padding-top: 1.5rem;
+  margin-top: 3rem;
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+// Buttons and CTAs
+.btn-primary {
+  background-color: $link-color;
+  border-color: $link-color;
+
+  &:hover {
+    background-color: $link-hover-color;
+    border-color: $link-hover-color;
+  }
+}

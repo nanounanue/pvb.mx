@@ -1,0 +1,31 @@
+---
+title: "About"
+---
+
+## Professional Background
+
+[Brief professional bio goes here]
+
+## Areas of Expertise
+
+### Legal Technology
+Implementation and evaluation of technology solutions for legal practice, including document automation, contract management, and legal research tools.
+
+### Legal Operations
+Process improvement, matter management, and operational efficiency in legal departments and law firms.
+
+### AI in Legal Practice
+Practical applications of artificial intelligence and machine learning in legal contexts, including due diligence, contract analysis, and predictive analytics.
+
+## Experience
+
+[Professional experience summary]
+
+## Education
+
+[Educational background]
+
+## Contact
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your email]

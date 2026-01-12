@@ -1,0 +1,10 @@
+---
+title: "Articles"
+listing:
+  contents: "."
+  type: default
+  sort: "date desc"
+  fields: [date, title, description]
+---
+
+In-depth articles on legal technology, legal operations, and AI applications in law.

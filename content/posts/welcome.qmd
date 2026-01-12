@@ -1,0 +1,23 @@
+---
+title: "Welcome"
+date: 2026-01-11
+description: "First post on the new site"
+categories: [meta]
+---
+
+## Welcome
+
+This is the first post on my new website, focused on legal technology, legal operations, and the application of AI in legal practice.
+
+## What to Expect
+
+I'll be sharing:
+
+- **Insights** on emerging legal tech tools and trends
+- **Practical guidance** for legal operations improvement
+- **Analysis** of AI applications in legal contexts
+- **Resources** for legal professionals navigating technology
+
+## Get in Touch
+
+I welcome connections with others working at the intersection of law and technology.

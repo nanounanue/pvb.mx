@@ -1,0 +1,23 @@
+---
+title: "PVB"
+subtitle: "Legal Tech | Legal Ops | AI"
+page-layout: full
+---
+
+## About
+
+Welcome to my professional site focused on the intersection of law, technology, and operations.
+
+## Focus Areas
+
+- **Legal Technology**: Tools and systems transforming legal practice
+- **Legal Operations**: Efficiency and process improvement in legal departments
+- **AI in Law**: Applications of artificial intelligence in legal contexts
+
+## Recent Work
+
+See my [Articles](content/articles/index.qmd) for in-depth analyses and [Posts](content/posts/index.qmd) for shorter updates and observations.
+
+## Connect
+
+- [LinkedIn](#)
