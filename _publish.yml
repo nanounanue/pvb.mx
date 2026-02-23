@@ -1,0 +1,4 @@
+- source: project
+  github:
+    - url: https://nanounanue.github.io/pvb.mx
+      branch: gh-pages

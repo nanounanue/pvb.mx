@@ -5,8 +5,8 @@ Professional website for legal services.
 ## Tech Stack
 
 - **Content**: Markdown → Quarto
-- **Hosting**: Codeberg Pages
-- **CI/CD**: Woodpecker CI (builds on push to main)
+- **Hosting**: GitHub Pages
+- **CI/CD**: GitHub Actions (builds on push to main)
 
 ## Local Development
 
